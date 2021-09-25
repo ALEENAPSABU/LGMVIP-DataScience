@@ -15,4 +15,4 @@ TASK 3:Prediction using Decision Tree Algorithm,
 TASK 4:Exploratory data analysis on "TERROISM" Dataset.
 
 
-The first two are of beginner level and the other two are of intermediate level
+The first two are of beginner level and the other two are of intermediate level.
